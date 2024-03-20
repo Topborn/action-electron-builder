@@ -1,4 +1,4 @@
-name: Electron Builder Action
+name: Electron Builder Action - Updated Node + Pnpm support
 author: Samuel Meuli
 description: GitHub Action for building and releasing Electron apps
 
